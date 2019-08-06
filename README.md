@@ -5,10 +5,11 @@
 ### 準備
 - インストール系
 - バージョンアップ系
+- package.json
 
 ### 実装
-- リスト
-- serviceでのデータ持ち方
+- ngForでテーブルっぽく
+- serviceでのデータ持ち方(非同期で扱いやすく)
 - angular material
 - flex layout
 - routing
