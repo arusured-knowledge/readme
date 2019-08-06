@@ -1,10 +1,10 @@
 # readme
-各リポジトリ情報を、要約したリポジトリです。
+目次です。
 
 ## Angular
-- [準備編](./angular/implementation.md)
-- [実装編]()
-- [テスト編]()
+- [準備編](./angular/preparation.md)
+- [実装編](./angular/implementation.md)
+- [テスト編](./angular/test.md)
 
 ## CI/CD
 
