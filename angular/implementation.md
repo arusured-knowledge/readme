@@ -33,9 +33,35 @@ cssを駆使すれば、テーブルっぽくできるはずです。<br>
 
 ## serviceでのデータ持ち方(非同期で扱いやすく)
 ## angular material
+モジュールを利用することで、モダンなデザインをお手軽に適用できるもの。<br>
+Googleが作成している。<br>
+[公式ページ](https://material.angular.io/)を元に、インストールをしていく。
+
+1. npmでインストールする。
+
+    ```shell
+    npm install --save @angular/material @angular/cdk @angular/animations
+    ```
+
+2. 使用したいモジュールで「BrowserAnimationsModule」か「NoopAnimationsModule」をimportする。
+
+3. angular materialの使いたい機能を、使用したいコンポーネントでimportする。
+
+4. `styless.css`にテーマをimportする。
+
+5. ジェスチャー系の機能を使うために、「hammerjs」をnpmでインストールする。
+
+6. material iconsを使うために、`index.html`にリンクを追記する。
+
+
+
 ## flex layout
 ## routing
 ## pipe
 ## pager
+レコードが複数あるが、表示したい領域に収まらない。そんな時に使う機能です。<br>
+Angular materialには便利な[pager](https://material.angular.io/components/paginator/overview)が用意されていますが、table向けとのこと。<br>
+ngForでリスト表示することもあるので、何とか使えないかチャレンジしたのが[こちら]()
+
 ## reactive form
 ## scss
