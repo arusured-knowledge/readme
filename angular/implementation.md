@@ -1,6 +1,6 @@
 # 実装編
 
-- [ngForでテーブルっぽく](##ngForでテーブルっぽく)
+- [ngForでlist表示](##ngForでlist表示)
 - [serviceでのデータ持ち方(非同期で扱いやすく)](serviceでのデータ持ち方(非同期で扱いやすく))
 - [angular material](##angular&nbsp;material)
 - [flex layout](##flex&nbsp;layout)
@@ -13,7 +13,7 @@
 ## ngForでlist表示
 list表示した時の例です。<br>
 cssを駆使すれば、テーブルっぽくできるはずです。<br>
-[サンプル](./../../angular-list-table)
+[サンプル](https://github.com/arusured-knowledge/angular-list-table)
 
 ちなみに、jsonデータを気軽に使いたい時は、`tsconfig.json`に
 
