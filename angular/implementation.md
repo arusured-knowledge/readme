@@ -1,13 +1,13 @@
 # 実装編
 
 - [ngForでlist表示](#ngForでlist表示)
-- [serviceでのデータ持ち方(非同期で扱いやすく)](#serviceでのデータ持ち方(非同期で扱いやすく))
+- [serviceでのデータ持ち方(非同期で扱いやすく)](#serviceでのデータ持ち方非同期で扱いやすく)
 - [angular material](#angular-material)
 - [flex layout](#flex-layout)
 - [routing](#routing)
 - [pipe](#pipe)
 - [pager](#pager)
-- [reactive form](#reactive&nbsp;form)
+- [reactive form](#reactive-form)
 - [scss](#scss)
 
 ## ngForでlist表示
